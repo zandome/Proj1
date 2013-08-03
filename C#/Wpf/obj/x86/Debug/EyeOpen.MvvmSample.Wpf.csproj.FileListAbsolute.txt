@@ -1,0 +1,15 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\bin\Debug\EyeOpen.MvvmSample.Wpf.exe
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\bin\Debug\EyeOpen.MvvmSample.Wpf.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\bin\Debug\EyeOpen.MvvmSample.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\bin\Debug\EyeOpen.MvvmSample.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\MainWindow.baml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\App.baml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\App.g.cs
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf_MarkupCompile.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.g.resources
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.Properties.Resources.resources
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.csproj.GenerateResource.Cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.exe
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\Wpf\obj\x86\Debug\EyeOpen.MvvmSample.Wpf.pdb

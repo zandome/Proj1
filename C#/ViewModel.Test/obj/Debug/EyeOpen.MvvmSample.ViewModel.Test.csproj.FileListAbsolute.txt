@@ -1,0 +1,7 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\bin\Debug\EyeOpen.MvvmSample.ViewModel.Test.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\bin\Debug\EyeOpen.MvvmSample.ViewModel.Test.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\bin\Debug\EyeOpen.MvvmSample.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\bin\Debug\EyeOpen.MvvmSample.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\obj\Debug\EyeOpen.MvvmSample.ViewModel.Test.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\obj\Debug\EyeOpen.MvvmSample.ViewModel.Test.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\MVVM_Test\C#\ViewModel.Test\obj\Debug\EyeOpen.MvvmSample.ViewModel.Test.pdb
